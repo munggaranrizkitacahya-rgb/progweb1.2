@@ -56,13 +56,13 @@ Tujuan dari mini project ini adalah untuk memahami dan menerapkan dasar-dasar HT
 ## 📷 Screenshots
 
 ### 📌 Halaman Home
-![Home](screenshots/screenshot-home.png)
+![Home](Screenshot-Home.png)
 
 ### 📌 Halaman Menu
-![Menu](screenshots/screenshot-menu.png)
+![Menu](Screenshot-MenuCafe.png)
 
 ### 📌 Halaman Profil
-![Profil](screenshots/screenshot-profil.png)
+![Profil](Screenshot-ProfilCafe.png)
 
 ---
 
