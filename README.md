@@ -83,9 +83,9 @@ Tujuan dari mini project ini adalah untuk memahami dan menerapkan dasar-dasar HT
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 - **Nama:** Rizkita Cahya Munggaran
 - **NIM:** 202504021
 - **Mata Kuliah:** Workshop Pemrograman Web 1
-- **Dosen:** Musawarman
+- **Dosen:** Musawarman, M.M.SI
